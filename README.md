@@ -1,1 +1,2 @@
-# amazon-clone
+# To-do:
+##Make ReadMe lol
